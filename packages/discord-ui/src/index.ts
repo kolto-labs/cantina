@@ -1,6 +1,6 @@
 import { EmbedBuilder, type APIEmbedField } from "discord.js";
 
-const defaultFooter = "OpenKOTOR Discord Bots";
+const defaultFooter = "Kolto Labs";
 
 interface EmbedOptions {
   title: string;
