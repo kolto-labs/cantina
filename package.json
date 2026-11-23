@@ -1,5 +1,5 @@
 {
-  "name": "kolto-bot-kit",
+  "name": "cantina",
   "private": true,
   "description": "Shared Discord libraries for Kolto Labs bots.",
   "packageManager": "pnpm@10.11.0",

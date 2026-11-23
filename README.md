@@ -1,6 +1,6 @@
-# kolto-bot-kit
+# cantina
 
-Working name. Shared libraries that every Kolto Labs Discord bot needs, and nothing that belongs to one product.
+Shared libraries that every Kolto Labs Discord bot needs, and nothing that belongs to one product.
 
 ## Scope
 

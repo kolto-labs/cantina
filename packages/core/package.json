@@ -1,5 +1,5 @@
 {
-  "name": "@kolto-labs/bot-core",
+  "name": "@kolto-labs/cantina-core",
   "version": "0.1.0",
   "description": "Discord client factory, logger and command deployment for Kolto Labs bots.",
   "private": true,
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kolto-labs/kolto-bot-kit.git",
+    "url": "https://github.com/kolto-labs/cantina.git",
     "directory": "packages/core"
   },
   "scripts": {
